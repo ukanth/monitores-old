@@ -1,4 +1,5 @@
 MonitorES - Monitor Energy Saver v1.0.1b
+======
 
 MonitorES is a small windows utility that helps you to turnoff monitor display when you lock down your machine.
 Also when you lock your machine, it will pause all your running media programs & set your IM status message to 
@@ -7,7 +8,7 @@ Also when you lock your machine, it will pause all your running media programs &
 According to this research statistics we could save lot of energy by turning off monitor display.
 
 
-Features
+## Features
 
 Automatically turnoff monitor.
 Automatically pause running media programs.
@@ -22,20 +23,19 @@ Disable screensaver
 Listen to your pause status
 Very small executable file (34 KB)
 No Installation Required / Portable Software
-Supported Media Players
 
-Winamp, AIMP , WMP, WMP Classic , 1BY1 , iTunes , KMPlayer ,Media Monkey , GOM Player , AlShow,Spotify , Foobar2000, BSPlayer
-QuickTime , XMPlay Only Support with PAUSE
-Supported IM
+## Supported Media Players
+
+Winamp, AIMP , WMP, WMP Classic , 1BY1 , iTunes , KMPlayer ,Media Monkey , GOM Player , AlShow,Spotify ,
+Foobar2000, BSPlayer
+
+QuickTime , XMPlay Only Support with PAUSE 
+
+## Supported IM
 
 Google Talk , Yahoo Messenger, Digsby , Miranda IM with custom away message
-Details : Click Here
 
-MonitorES Lite - For Administrators/corporates -> Lite Weight,highly optimized More details
-
-MonitorES Ubuntu - Ubuntu version of MonitorES .. More details
-
-Reviews :
+## Reviews :
 
 404techsupport.com - "MonitorES is the perfect simple solution to saving more power so easily"
 
